@@ -72,7 +72,7 @@ server/
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/usmanmobeen111/Notes-App-MERN.git)
+   git clone https://github.com/usmanmobeen111/Notes-App-MERN.git
    cd notes-app-mern
    ```
 
